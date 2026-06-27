@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="docs/logo.png" alt="HouseWise – Student Housing Transparency Assistant" width="100%">
+<img src="docs/logo.png" alt="HouseWise – Student Housing Transparency Assistant" width="10%">
+
+</div>
 
 ## Why HouseWise?
 
