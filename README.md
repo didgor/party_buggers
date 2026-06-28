@@ -4,7 +4,7 @@
 
 </div>
 
-## Why HouseWise?
+## 🏠 Why HouseWise?
 
 Finding student accommodation should be exciting, not a gamble.
 
@@ -37,5 +37,9 @@ The project relies on the following core libraries:
 
 To install all dependencies at once, run:
 ```bash
-pip install flask pymupdf google-genai
+pip3 install flask pymupdf google-genai
+```
 
+To run the backend, run:
+```bash
+python3 HouseWise/app.py
