@@ -21,7 +21,7 @@ Every year, thousands of students sign tenancy agreements without fully understa
 * **AI Fine Print Analyzer (`/analyze`)**: Scans contract text using Gemini 2.5 Flash and returns a structured JSON array of hidden fees, automatic renewals, and legal risks.
 * **AI Legal Chatbot (`/chat`)**: A conversational AI assistant to ask quick questions about lease terms or landlord disputes.
 * **PDF Text Extraction**: Automatic PDF parsing using PyMuPDF (`fitz`).
-* **Rule-Based Red Flag Scanner**: Fast, keyword-based local screening for common rental traps.
+* **Rule-Based Red Flag Scanner  (`/contracts/scan`)**: Fast, keyword-based local screening for common rental traps.
 
 ---
 
