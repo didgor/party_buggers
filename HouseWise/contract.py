@@ -6,7 +6,7 @@ from google import genai
 contracts_bp = Blueprint('contracts', __name__)
 
 # Initialising the Gemini client
-ai_client = genai.Client(api_key="AQ.Ab8RN6KlebEiCFW6GSzPB4nRmpWMREAg9_qhOVu_TAveB19fOw") #THIS IS ONLY FOR A HACKATHON. IN REAL LIFE DEVELOPMENT PROCCESS WE'D NEVER LEAVE A KEY IN CODE
+ai_client = genai.Client(api_key="AQ.AdshjbfsdhjbEiCFW6GSzPB4nRmpWMREAg9_qhOVu_TAveB19fOw") #THIS IS ONLY FOR A HACKATHON. IN REAL LIFE DEVELOPMENT PROCCESS WE'D NEVER LEAVE A KEY IN CODE
 
 # -------------------------------------------------------
 # RED FLAG DEFINITIONS
